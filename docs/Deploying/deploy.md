@@ -9,3 +9,12 @@ Introduction to test page 2
 [Product1](https://app.archbee.io/public/JTQkGNgcPfRFZlTXzXFDu/Ei5jgXBeGDlNhlRDfILt9)
 :::
 ::::
+
+## Version X.X
+
+*   **added** - dddd
+
+*   **fixed** - fffff
+
+*   **knownIssue** - gggg
+
