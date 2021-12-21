@@ -1,2 +1,0 @@
-- [test page](./test-page.md)
-    - [test page 2](./test-folder/test-page-2.md)
